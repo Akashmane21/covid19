@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-Deploying is Happning        </p>
+change is Happning        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
